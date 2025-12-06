@@ -1,6 +1,6 @@
 # Hello there! 🤓☝🏻
 ## Unk1ndled or Q-AC
-### Contact me through Foxmail: unk1ndled@foxmail.com
+### Contact me through Foxmail: unk1ndled@outlook.com
 ### May publish games in 1 to ♾️ years, please follow Silex Workshop https://store.steampowered.com/developer/SilexWorkshop/
 ### Language
 
