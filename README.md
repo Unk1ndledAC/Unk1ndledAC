@@ -10,6 +10,7 @@
 - [ ] Deutsch (lerne ich gerade)
 - [ ] Русский (в процессе)
 - [x] Markdown (familiar)
+- [x] Latex (familiar)
 - [x] C (familiar)
 - [x] C++ (familiar)
 - [x] Java (familiar)
