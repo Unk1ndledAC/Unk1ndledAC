@@ -1,6 +1,4 @@
-# Hello there! 🤓☝🏻
-## Unk1ndled or Q-AC
-### Contact me through mail: unk1ndled@outlook.com
+# Hello there! 🖐🏻🤓
 ### May publish games in 1 to ♾️ years, please follow Silex Workshop https://store.steampowered.com/developer/SilexWorkshop/
 ### Language
 
