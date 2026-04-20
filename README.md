@@ -7,9 +7,11 @@
 - [x] English (may have forgotten a little bit)
 - [ ] Deutsch (lerne ich gerade)
 - [ ] Русский (в процессе)
-- [x] Markdown (familiar)
-- [x] Latex (familiar)
+- [ ] 日本語（学習中）
 - [x] C/C++/C# (familiar)
 - [x] Java (familiar)
+- [x] Latex (familiar)
+- [x] Markdown (familiar)
+- [ ] Perl (learning)
 - [x] Python (familiar)
 - [x] Visual Basic (familiar)
