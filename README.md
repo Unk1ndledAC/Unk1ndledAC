@@ -14,4 +14,6 @@
 - [x] Markdown (familiar)
 - [ ] Perl (learning)
 - [x] Python (familiar)
+- [ ] Rocq (learning)
+- [ ] Rust (learning)
 - [x] Visual Basic (familiar)
