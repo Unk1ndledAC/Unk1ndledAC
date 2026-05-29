@@ -2,6 +2,7 @@
 
 <div align="center">
 
+  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -11,7 +12,6 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -19,13 +19,11 @@
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
   ![Stata](https://img.shields.io/badge/Stata-195F91?style=flat-square&logo=stata&logoColor=white)
 
-
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
-
 
   ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
@@ -59,14 +57,13 @@
 ### 🔗 Follow
 
 [![Steam](https://img.shields.io/badge/Steam-Silex%20Workshop-white?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/developer/SilexWorkshop/) Please follow **Silex Workshop** on [Steam](https://store.steampowered.com/developer/SilexWorkshop/) for future game releases.
-
-[![Bilibili](https://img.shields.io/badge/Bilibili-Q_AC-white?style=for-the-badge&logo=bilibili&logoColor=pink)](https://space.bilibili.com/2049457736) Please subscribe to **Q-AC** on [BiliBili](https://space.bilibili.com/2049457736) for daily updates.
+[![Bilibili](https://img.shields.io/badge/Bilibili-Q_AC-white?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/2049457736) Please subscribe to **Q-AC** on [BiliBili](https://space.bilibili.com/2049457736) for daily updates.
 
 <h3 align="center">Communication</h3>
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/Outlook-unk1ndled%40outlook-white?style=flat-square&logo=microsoft-outlook&logoColor=white&color=0078D4)](mailto:unk1ndled@outlook.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-utaka.hoshino%40gmail.com-white?style=flat-square&logo=gmail&logoColor=white&color=D14836)](mailto:utaka.hoshino@gmail.com)
+  [![Outlook](https://img.shields.io/badge/Outlook-unk1ndled%40outlook-white?style=flat-square&logo=microsoft-outlook&logoColor=white&color=blue)](mailto:unk1ndled@outlook.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-utaka.hoshino%40gmail.com-white?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:utaka.hoshino@gmail.com)
 
 </div>
