@@ -8,7 +8,7 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=flat-square&logo=visual-basic&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/LaTeX-000080?style=flat-square&logo=latex&logoColor=white)
+  ![LaTeX](https://img.shields.io/badge/LuaTeX-000080?style=flat-square&logo=latex&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
