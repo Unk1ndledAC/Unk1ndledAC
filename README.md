@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 🖐🏻🤓</h1>
+<h2 align="center">Hello there! 🖐🏻🤓</h2>
 
 <div align="center">
 
@@ -30,6 +30,8 @@
 
 </div>
 
+<h1 align="center">👨‍💼 About Me</h1>
+
 ---
 
 ### 🛠 Tech Stack
@@ -54,17 +56,21 @@
 
 ---
 
-### 🔗 Follow
+### 🔗 Social Links
 
 [![Steam](https://img.shields.io/badge/Steam-Silex%20Workshop-white?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/developer/SilexWorkshop/) Please follow **Silex Workshop** on [Steam](https://store.steampowered.com/developer/SilexWorkshop/) for future game releases.
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-Q_AC-white?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/2049457736) Please subscribe to **Q-AC** on [BiliBili](https://space.bilibili.com/2049457736) for daily updates.
 
-<h3 align="center">✉️ Communication</h3>
+---
+
+### ✉️ Communication
 
 <div align="center">
 
   [![Outlook](https://img.shields.io/badge/Outlook-unk1ndled%40outlook-white?style=flat-square&logo=microsoft-outlook&logoColor=white&color=blue)](mailto:unk1ndled@outlook.com)
   [![Gmail](https://img.shields.io/badge/Gmail-utaka.hoshino%40gmail.com-white?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:utaka.hoshino@gmail.com)
+  [![QQ Mail](https://img.shields.io/badge/QQ%20Mail-1947343700%40qq.com-white?style=flat-square&logo=tencent-qq&logoColor=white&color=orange)](mailto:1947343700@qq.com)
+  [![YNU Mail](https://img.shields.io/badge/School%20Mail-quguanheng%40stu.ynu.edu.cn-white?style=flat-square&logo=mail&logoColor=white&color=darkgreen)](mailto:quguanheng@stu.ynu.edu.cn)
 
 </div>
