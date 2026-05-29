@@ -43,7 +43,7 @@
 
 ---
 
-### 🗣 Languages
+### 🗣 Communication
 
 | Language | Status |
 | :--- | :--- |
@@ -64,7 +64,7 @@
 
 ---
 
-### ✉️ Communication
+### ✉️ Contact
 
 <div align="center">
 
