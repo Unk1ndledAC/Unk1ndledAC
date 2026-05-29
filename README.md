@@ -60,7 +60,7 @@
 
 [![Steam](https://img.shields.io/badge/Steam-Silex%20Workshop-white?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/developer/SilexWorkshop/) Please follow **Silex Workshop** on [Steam](https://store.steampowered.com/developer/SilexWorkshop/) for future game releases.
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-Q%2DAC-white?style=for-the-badg&logo=bilibili&logoColor=pink)](https://space.bilibili.com/2049457736) Please subscribe to **Q-AC** on [BiliBili](https://space.bilibili.com/2049457736) for daily updates.
+[![Bilibili](https://img.shields.io/badge/Bilibili-Q%2DAC-white?style=for-the-badge&logo=bilibili&logoColor=pink)](https://space.bilibili.com/2049457736) Please subscribe to **Q-AC** on [BiliBili](https://space.bilibili.com/2049457736) for daily updates.
 
 <h3 align="center">Communication</h3>
 
