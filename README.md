@@ -40,6 +40,7 @@
 - **AI / Data:** PyTorch, TensorFlow, Scikit-learn, MATLAB, Stata
 - **DevOps & Tools:** Docker, Linux, Git, MySQL, Overleaf
 - **Game Engines:** Unity, Unreal Engine
+- **Learning:** Java Script, Perl, Rocq, Type Script
 
 ---
 
