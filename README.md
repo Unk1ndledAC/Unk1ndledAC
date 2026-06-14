@@ -70,8 +70,5 @@
 <div align="center">
 
   [![Outlook](https://img.shields.io/badge/Outlook-unk1ndled%40outlook-white?style=flat-square&logo=microsoft-outlook&logoColor=white&color=blue)](mailto:unk1ndled@outlook.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-utaka.hoshino%40gmail.com-white?style=flat-square&logo=gmail&logoColor=white&color=red)](mailto:utaka.hoshino@gmail.com)
-  [![QQ Mail](https://img.shields.io/badge/QQ%20Mail-1947343700%40qq.com-white?style=flat-square&logo=tencent-qq&logoColor=white&color=orange)](mailto:1947343700@qq.com)
-  [![YNU Mail](https://img.shields.io/badge/School%20Mail-quguanheng%40stu.ynu.edu.cn-white?style=flat-square&logo=mail&logoColor=white&color=darkgreen)](mailto:quguanheng@stu.ynu.edu.cn)
 
 </div>
